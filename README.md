@@ -5,7 +5,7 @@ Note strukt requires click to run so
  `pip install click` in a terminal
  
 
-##Usage
+## Usage:
 in the desired drectory simply run
 ``` python
 struckt.py PROJECT_NAME
